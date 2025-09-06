@@ -1,0 +1,356 @@
+{
+  "biryani": {
+    "name": "biryani",
+    "tags": ["rice", "chicken", "onion", "garlic", "ginger", "oil", "spices", "saffron", "mint", "yogurt"],
+    "description": "Traditional Indian rice dish",
+    "difficulty": "medium"
+  },
+  "qorma": {
+    "name": "qorma",
+    "tags": ["chicken", "onion", "yogurt", "oil", "spices", "garlic", "ginger", "cream", "almonds"],
+    "description": "Rich and creamy curry",
+    "difficulty": "easy"
+  },
+  "pasta": {
+    "name": "pasta",
+    "tags": ["pasta", "tomato", "onion", "garlic", "cheese", "oil", "basil", "oregano", "salt"],
+    "description": "Italian pasta dish",
+    "difficulty": "easy"
+  },
+  "pizza": {
+    "name": "pizza",
+    "tags": ["flour", "tomato", "cheese", "yeast", "oil", "oregano", "basil", "pepperoni", "salt"],
+    "description": "Italian pizza",
+    "difficulty": "medium"
+  },
+  "tacos": {
+    "name": "tacos",
+    "tags": ["tortilla", "beef", "onion", "garlic", "tomato", "lettuce", "cheese", "lime", "cilantro"],
+    "description": "Mexican tacos",
+    "difficulty": "easy"
+  },
+  "sushi": {
+    "name": "sushi",
+    "tags": ["rice", "fish", "seaweed", "wasabi", "ginger", "soy_sauce", "cucumber", "avocado", "sesame"],
+    "description": "Japanese sushi rolls",
+    "difficulty": "hard"
+  },
+  "curry": {
+    "name": "curry",
+    "tags": ["onion", "garlic", "ginger", "tomato", "spices", "coconut_milk", "chicken", "oil", "turmeric"],
+    "description": "Indian curry",
+    "difficulty": "medium"
+  },
+  "stir_fry": {
+    "name": "stir_fry",
+    "tags": ["vegetables", "soy_sauce", "garlic", "ginger", "oil", "chicken", "bell_pepper", "broccoli", "carrot"],
+    "description": "Asian stir fry",
+    "difficulty": "easy"
+  },
+  "burger": {
+    "name": "burger",
+    "tags": ["beef", "bun", "lettuce", "tomato", "onion", "cheese", "pickle", "ketchup", "mustard"],
+    "description": "Classic burger",
+    "difficulty": "easy"
+  },
+  "salad": {
+    "name": "salad",
+    "tags": ["lettuce", "tomato", "cucumber", "onion", "olive_oil", "vinegar", "herbs", "cheese", "salt"],
+    "description": "Fresh green salad",
+    "difficulty": "easy"
+  },
+  "dal": {
+    "name": "dal",
+    "tags": ["lentils", "onion", "garlic", "ginger", "tomato", "spices", "oil", "turmeric", "cumin"],
+    "description": "Indian lentil curry",
+    "difficulty": "easy"
+  },
+  "samosa": {
+    "name": "samosa",
+    "tags": ["flour", "potato", "onion", "spices", "oil", "peas", "ginger", "garlic", "salt"],
+    "description": "Indian fried pastry",
+    "difficulty": "medium"
+  },
+  "naan": {
+    "name": "naan",
+    "tags": ["flour", "yeast", "yogurt", "oil", "salt", "garlic", "butter", "milk", "sugar"],
+    "description": "Indian flatbread",
+    "difficulty": "medium"
+  },
+  "tikka_masala": {
+    "name": "tikka_masala",
+    "tags": ["chicken", "tomato", "onion", "garlic", "ginger", "cream", "spices", "oil", "yogurt"],
+    "description": "Creamy tomato curry",
+    "difficulty": "medium"
+  },
+  "risotto": {
+    "name": "risotto",
+    "tags": ["rice", "onion", "garlic", "cheese", "butter", "wine", "stock", "mushroom", "parsley"],
+    "description": "Italian creamy rice",
+    "difficulty": "medium"
+  },
+  "lasagna": {
+    "name": "lasagna",
+    "tags": ["pasta", "beef", "tomato", "cheese", "onion", "garlic", "basil", "oregano", "milk"],
+    "description": "Italian layered pasta",
+    "difficulty": "medium"
+  },
+  "carbonara": {
+    "name": "carbonara",
+    "tags": ["pasta", "eggs", "cheese", "bacon", "garlic", "black_pepper", "butter", "parsley", "salt"],
+    "description": "Italian pasta with eggs",
+    "difficulty": "medium"
+  },
+  "burritos": {
+    "name": "burritos",
+    "tags": ["tortilla", "beef", "rice", "beans", "cheese", "onion", "garlic", "tomato", "cilantro"],
+    "description": "Mexican wrapped dish",
+    "difficulty": "easy"
+  },
+  "quesadillas": {
+    "name": "quesadillas",
+    "tags": ["tortilla", "cheese", "chicken", "onion", "bell_pepper", "oil", "cilantro", "lime", "salt"],
+    "description": "Mexican cheese tortilla",
+    "difficulty": "easy"
+  },
+  "enchiladas": {
+    "name": "enchiladas",
+    "tags": ["tortilla", "chicken", "cheese", "tomato", "onion", "garlic", "chili", "cumin", "oil"],
+    "description": "Mexican rolled tortillas",
+    "difficulty": "medium"
+  },
+  "nachos": {
+    "name": "nachos",
+    "tags": ["chips", "cheese", "jalapeno", "tomato", "onion", "cilantro", "lime", "sour_cream", "guacamole"],
+    "description": "Mexican chips with toppings",
+    "difficulty": "easy"
+  },
+  "ramen": {
+    "name": "ramen",
+    "tags": ["noodles", "broth", "egg", "pork", "onion", "garlic", "ginger", "soy_sauce", "sesame"],
+    "description": "Japanese noodle soup",
+    "difficulty": "medium"
+  },
+  "pad_thai": {
+    "name": "pad_thai",
+    "tags": ["noodles", "shrimp", "egg", "onion", "garlic", "lime", "fish_sauce", "sugar", "peanuts"],
+    "description": "Thai stir-fried noodles",
+    "difficulty": "medium"
+  },
+  "fried_rice": {
+    "name": "fried_rice",
+    "tags": ["rice", "egg", "onion", "garlic", "soy_sauce", "oil", "carrot", "peas", "scallion"],
+    "description": "Asian fried rice",
+    "difficulty": "easy"
+  },
+  "dumplings": {
+    "name": "dumplings",
+    "tags": ["flour", "pork", "cabbage", "onion", "garlic", "ginger", "soy_sauce", "oil", "scallion"],
+    "description": "Chinese dumplings",
+    "difficulty": "hard"
+  },
+  "bbq_ribs": {
+    "name": "bbq_ribs",
+    "tags": ["pork_ribs", "bbq_sauce", "garlic", "onion", "brown_sugar", "paprika", "salt", "pepper", "oil"],
+    "description": "American BBQ ribs",
+    "difficulty": "medium"
+  },
+  "mac_cheese": {
+    "name": "mac_cheese",
+    "tags": ["pasta", "cheese", "milk", "butter", "flour", "salt", "pepper", "breadcrumbs", "garlic"],
+    "description": "Macaroni and cheese",
+    "difficulty": "easy"
+  },
+  "wings": {
+    "name": "wings",
+    "tags": ["chicken_wings", "hot_sauce", "butter", "garlic", "salt", "pepper", "oil", "honey", "lime"],
+    "description": "Buffalo chicken wings",
+    "difficulty": "easy"
+  },
+  "hummus": {
+    "name": "hummus",
+    "tags": ["chickpeas", "tahini", "lemon", "garlic", "olive_oil", "salt", "cumin", "paprika", "parsley"],
+    "description": "Middle Eastern dip",
+    "difficulty": "easy"
+  },
+  "falafel": {
+    "name": "falafel",
+    "tags": ["chickpeas", "onion", "garlic", "parsley", "cilantro", "cumin", "oil", "flour", "salt"],
+    "description": "Middle Eastern fritters",
+    "difficulty": "medium"
+  },
+  "gyro": {
+    "name": "gyro",
+    "tags": ["lamb", "pita", "onion", "tomato", "cucumber", "yogurt", "garlic", "oregano", "olive_oil"],
+    "description": "Greek wrapped meat",
+    "difficulty": "medium"
+  },
+  "moussaka": {
+    "name": "moussaka",
+    "tags": ["eggplant", "beef", "tomato", "onion", "garlic", "cheese", "milk", "flour", "butter"],
+    "description": "Greek layered dish",
+    "difficulty": "hard"
+  },
+  "tabbouleh": {
+    "name": "tabbouleh",
+    "tags": ["bulgur", "tomato", "onion", "parsley", "mint", "lemon", "olive_oil", "salt", "cucumber"],
+    "description": "Middle Eastern salad",
+    "difficulty": "easy"
+  },
+  "cake": {
+    "name": "cake",
+    "tags": ["flour", "sugar", "eggs", "butter", "milk", "vanilla", "baking_powder", "salt", "oil"],
+    "description": "Sweet dessert cake",
+    "difficulty": "medium"
+  },
+  "cookies": {
+    "name": "cookies",
+    "tags": ["flour", "sugar", "butter", "eggs", "vanilla", "chocolate_chips", "baking_soda", "salt", "brown_sugar"],
+    "description": "Sweet baked cookies",
+    "difficulty": "easy"
+  },
+  "ice_cream": {
+    "name": "ice_cream",
+    "tags": ["milk", "cream", "sugar", "eggs", "vanilla", "salt", "strawberry", "chocolate", "nuts"],
+    "description": "Frozen dessert",
+    "difficulty": "medium"
+  },
+  "pie": {
+    "name": "pie",
+    "tags": ["flour", "butter", "sugar", "apples", "cinnamon", "lemon", "salt", "eggs", "milk"],
+    "description": "Baked fruit pie",
+    "difficulty": "medium"
+  },
+  "pudding": {
+    "name": "pudding",
+    "tags": ["milk", "sugar", "eggs", "vanilla", "cornstarch", "salt", "chocolate", "butter", "cream"],
+    "description": "Creamy dessert",
+    "difficulty": "easy"
+  },
+  "cheesecake": {
+    "name": "cheesecake",
+    "tags": ["cream_cheese", "sugar", "eggs", "graham_crackers", "butter", "vanilla", "sour_cream", "lemon", "salt"],
+    "description": "Rich cheese dessert",
+    "difficulty": "medium"
+  },
+  "pancakes": {
+    "name": "pancakes",
+    "tags": ["flour", "eggs", "milk", "butter", "sugar", "baking_powder", "salt", "vanilla", "syrup"],
+    "description": "Fluffy breakfast cakes",
+    "difficulty": "easy"
+  },
+  "waffles": {
+    "name": "waffles",
+    "tags": ["flour", "eggs", "milk", "butter", "sugar", "baking_powder", "salt", "vanilla", "syrup"],
+    "description": "Crispy breakfast cakes",
+    "difficulty": "easy"
+  },
+  "omelette": {
+    "name": "omelette",
+    "tags": ["eggs", "butter", "cheese", "onion", "bell_pepper", "mushroom", "salt", "pepper", "herbs"],
+    "description": "Fluffy egg dish",
+    "difficulty": "easy"
+  },
+  "french_toast": {
+    "name": "french_toast",
+    "tags": ["bread", "eggs", "milk", "butter", "vanilla", "cinnamon", "sugar", "syrup", "salt"],
+    "description": "Sweet breakfast toast",
+    "difficulty": "easy"
+  },
+  "cereal": {
+    "name": "cereal",
+    "tags": ["oats", "milk", "honey", "nuts", "berries", "yogurt", "banana", "cinnamon", "vanilla"],
+    "description": "Breakfast cereal bowl",
+    "difficulty": "easy"
+  },
+  "soup": {
+    "name": "soup",
+    "tags": ["broth", "vegetables", "onion", "garlic", "carrot", "celery", "tomato", "herbs", "salt"],
+    "description": "Warm vegetable soup",
+    "difficulty": "easy"
+  },
+  "sandwich": {
+    "name": "sandwich",
+    "tags": ["bread", "meat", "cheese", "lettuce", "tomato", "onion", "mayo", "mustard", "pickle"],
+    "description": "Classic sandwich",
+    "difficulty": "easy"
+  },
+  "stew": {
+    "name": "stew",
+    "tags": ["beef", "potato", "carrot", "onion", "garlic", "tomato", "broth", "herbs", "oil"],
+    "description": "Hearty meat stew",
+    "difficulty": "medium"
+  },
+  "casserole": {
+    "name": "casserole",
+    "tags": ["pasta", "cheese", "milk", "butter", "flour", "onion", "garlic", "herbs", "breadcrumbs"],
+    "description": "Baked pasta dish",
+    "difficulty": "medium"
+  },
+  "roast": {
+    "name": "roast",
+    "tags": ["beef", "potato", "carrot", "onion", "garlic", "herbs", "oil", "salt", "pepper"],
+    "description": "Roasted meat and vegetables",
+    "difficulty": "medium"
+  },
+  "grilled_chicken": {
+    "name": "grilled_chicken",
+    "tags": ["chicken", "garlic", "lemon", "herbs", "oil", "salt", "pepper", "paprika", "onion"],
+    "description": "Grilled chicken breast",
+    "difficulty": "easy"
+  },
+  "fish_tacos": {
+    "name": "fish_tacos",
+    "tags": ["fish", "tortilla", "cabbage", "lime", "cilantro", "onion", "garlic", "spices", "oil"],
+    "description": "Mexican fish tacos",
+    "difficulty": "medium"
+  },
+  "chili": {
+    "name": "chili",
+    "tags": ["beef", "beans", "tomato", "onion", "garlic", "chili_powder", "cumin", "salt", "pepper"],
+    "description": "Spicy bean stew",
+    "difficulty": "easy"
+  },
+  "meatballs": {
+    "name": "meatballs",
+    "tags": ["beef", "breadcrumbs", "eggs", "onion", "garlic", "herbs", "cheese", "salt", "pepper"],
+    "description": "Italian meatballs",
+    "difficulty": "medium"
+  },
+  "quiche": {
+    "name": "quiche",
+    "tags": ["eggs", "cheese", "milk", "pie_crust", "onion", "spinach", "herbs", "salt", "pepper"],
+    "description": "French egg pie",
+    "difficulty": "medium"
+  },
+  "frittata": {
+    "name": "frittata",
+    "tags": ["eggs", "cheese", "vegetables", "onion", "garlic", "herbs", "oil", "salt", "pepper"],
+    "description": "Italian egg dish",
+    "difficulty": "easy"
+  },
+  "muffins": {
+    "name": "muffins",
+    "tags": ["flour", "sugar", "eggs", "milk", "butter", "baking_powder", "vanilla", "blueberries", "salt"],
+    "description": "Sweet breakfast muffins",
+    "difficulty": "easy"
+  },
+  "bread": {
+    "name": "bread",
+    "tags": ["flour", "yeast", "water", "salt", "sugar", "oil", "milk", "eggs", "butter"],
+    "description": "Homemade bread",
+    "difficulty": "medium"
+  },
+  "smoothie": {
+    "name": "smoothie",
+    "tags": ["banana", "berries", "milk", "yogurt", "honey", "ice", "spinach", "protein_powder", "vanilla"],
+    "description": "Fruit smoothie",
+    "difficulty": "easy"
+  },
+  "yogurt_parfait": {
+    "name": "yogurt_parfait",
+    "tags": ["yogurt", "granola", "berries", "honey", "nuts", "banana", "vanilla", "cinnamon", "mint"],
+    "description": "Layered yogurt dessert",
+    "difficulty": "easy"
+  }
+}
