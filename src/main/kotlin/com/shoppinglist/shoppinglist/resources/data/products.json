@@ -1,0 +1,1412 @@
+{
+  "rice": [
+    {
+      "id": "rice-001",
+      "name": "Basmati Rice",
+      "category": "grains",
+      "price": 2.50,
+      "unit": "kg",
+      "brand": "Tilda"
+    },
+    {
+      "id": "rice-002",
+      "name": "Jasmine Rice",
+      "category": "grains",
+      "price": 3.20,
+      "unit": "kg",
+      "brand": "Golden Phoenix"
+    },
+    {
+      "id": "rice-003",
+      "name": "Brown Rice",
+      "category": "grains",
+      "price": 2.80,
+      "unit": "kg",
+      "brand": "Lundberg"
+    }
+  ],
+  "chicken": [
+    {
+      "id": "chicken-001", 
+      "name": "Chicken Breast",
+      "category": "meat",
+      "price": 8.99,
+      "unit": "kg",
+      "brand": "Fresh Farm"
+    },
+    {
+      "id": "chicken-002",
+      "name": "Chicken Thighs",
+      "category": "meat",
+      "price": 6.50,
+      "unit": "kg",
+      "brand": "Organic Valley"
+    },
+    {
+      "id": "chicken-003",
+      "name": "Whole Chicken",
+      "category": "meat",
+      "price": 4.99,
+      "unit": "kg",
+      "brand": "Perdue"
+    }
+  ],
+  "onion": [
+    {
+      "id": "onion-001",
+      "name": "Yellow Onions",
+      "category": "vegetables",
+      "price": 1.20,
+      "unit": "kg",
+      "brand": "Fresh Produce"
+    },
+    {
+      "id": "onion-002",
+      "name": "Red Onions",
+      "category": "vegetables",
+      "price": 1.50,
+      "unit": "kg",
+      "brand": "Local Farm"
+    },
+    {
+      "id": "onion-003",
+      "name": "White Onions",
+      "category": "vegetables",
+      "price": 1.30,
+      "unit": "kg",
+      "brand": "Organic Valley"
+    }
+  ],
+  "garlic": [
+    {
+      "id": "garlic-001",
+      "name": "Fresh Garlic",
+      "category": "vegetables",
+      "price": 0.80,
+      "unit": "bulb",
+      "brand": "Local Farm"
+    },
+    {
+      "id": "garlic-002",
+      "name": "Garlic Powder",
+      "category": "spices",
+      "price": 2.50,
+      "unit": "100g",
+      "brand": "McCormick"
+    }
+  ],
+  "oil": [
+    {
+      "id": "oil-001",
+      "name": "Olive Oil",
+      "category": "oils",
+      "price": 4.50,
+      "unit": "liter",
+      "brand": "Extra Virgin"
+    },
+    {
+      "id": "oil-002",
+      "name": "Vegetable Oil",
+      "category": "oils",
+      "price": 2.30,
+      "unit": "liter",
+      "brand": "Crisco"
+    },
+    {
+      "id": "oil-003",
+      "name": "Coconut Oil",
+      "category": "oils",
+      "price": 6.99,
+      "unit": "500ml",
+      "brand": "Nutiva"
+    }
+  ],
+  "spices": [
+    {
+      "id": "spices-001",
+      "name": "Curry Powder",
+      "category": "spices",
+      "price": 3.50,
+      "unit": "100g",
+      "brand": "McCormick"
+    },
+    {
+      "id": "spices-002",
+      "name": "Garam Masala",
+      "category": "spices",
+      "price": 4.20,
+      "unit": "100g",
+      "brand": "Everest"
+    },
+    {
+      "id": "spices-003",
+      "name": "Turmeric",
+      "category": "spices",
+      "price": 2.80,
+      "unit": "100g",
+      "brand": "Simply Organic"
+    }
+  ],
+  "ginger": [
+    {
+      "id": "ginger-001",
+      "name": "Fresh Ginger",
+      "category": "vegetables",
+      "price": 3.50,
+      "unit": "kg",
+      "brand": "Fresh Produce"
+    },
+    {
+      "id": "ginger-002",
+      "name": "Ginger Powder",
+      "category": "spices",
+      "price": 2.20,
+      "unit": "100g",
+      "brand": "McCormick"
+    }
+  ],
+  "yogurt": [
+    {
+      "id": "yogurt-001",
+      "name": "Greek Yogurt",
+      "category": "dairy",
+      "price": 4.50,
+      "unit": "500g",
+      "brand": "Chobani"
+    },
+    {
+      "id": "yogurt-002",
+      "name": "Plain Yogurt",
+      "category": "dairy",
+      "price": 2.99,
+      "unit": "500g",
+      "brand": "Dannon"
+    }
+  ],
+  "cream": [
+    {
+      "id": "cream-001",
+      "name": "Heavy Cream",
+      "category": "dairy",
+      "price": 3.50,
+      "unit": "500ml",
+      "brand": "Land O Lakes"
+    },
+    {
+      "id": "cream-002",
+      "name": "Coconut Cream",
+      "category": "dairy",
+      "price": 2.80,
+      "unit": "400ml",
+      "brand": "Thai Kitchen"
+    }
+  ],
+  "pasta": [
+    {
+      "id": "pasta-001",
+      "name": "Spaghetti",
+      "category": "grains",
+      "price": 1.50,
+      "unit": "500g",
+      "brand": "Barilla"
+    },
+    {
+      "id": "pasta-002",
+      "name": "Penne",
+      "category": "grains",
+      "price": 1.60,
+      "unit": "500g",
+      "brand": "De Cecco"
+    }
+  ],
+  "tomato": [
+    {
+      "id": "tomato-001",
+      "name": "Fresh Tomatoes",
+      "category": "vegetables",
+      "price": 2.50,
+      "unit": "kg",
+      "brand": "Fresh Produce"
+    },
+    {
+      "id": "tomato-002",
+      "name": "Canned Tomatoes",
+      "category": "vegetables",
+      "price": 1.20,
+      "unit": "400g",
+      "brand": "Hunt's"
+    }
+  ],
+  "cheese": [
+    {
+      "id": "cheese-001",
+      "name": "Cheddar Cheese",
+      "category": "dairy",
+      "price": 5.50,
+      "unit": "250g",
+      "brand": "Kraft"
+    },
+    {
+      "id": "cheese-002",
+      "name": "Mozzarella",
+      "category": "dairy",
+      "price": 4.20,
+      "unit": "250g",
+      "brand": "Galbani"
+    }
+  ],
+  "flour": [
+    {
+      "id": "flour-001",
+      "name": "All Purpose Flour",
+      "category": "grains",
+      "price": 2.20,
+      "unit": "kg",
+      "brand": "King Arthur"
+    },
+    {
+      "id": "flour-002",
+      "name": "Whole Wheat Flour",
+      "category": "grains",
+      "price": 2.80,
+      "unit": "kg",
+      "brand": "Bob's Red Mill"
+    }
+  ],
+  "yeast": [
+    {
+      "id": "yeast-001",
+      "name": "Active Dry Yeast",
+      "category": "baking",
+      "price": 1.50,
+      "unit": "100g",
+      "brand": "Fleischmann's"
+    }
+  ],
+  "basil": [
+    {
+      "id": "basil-001",
+      "name": "Fresh Basil",
+      "category": "herbs",
+      "price": 2.50,
+      "unit": "bunch",
+      "brand": "Fresh Herbs"
+    },
+    {
+      "id": "basil-002",
+      "name": "Dried Basil",
+      "category": "herbs",
+      "price": 1.80,
+      "unit": "50g",
+      "brand": "McCormick"
+    }
+  ],
+  "oregano": [
+    {
+      "id": "oregano-001",
+      "name": "Dried Oregano",
+      "category": "herbs",
+      "price": 1.60,
+      "unit": "50g",
+      "brand": "McCormick"
+    }
+  ],
+  "salt": [
+    {
+      "id": "salt-001",
+      "name": "Sea Salt",
+      "category": "spices",
+      "price": 1.20,
+      "unit": "500g",
+      "brand": "Morton"
+    },
+    {
+      "id": "salt-002",
+      "name": "Kosher Salt",
+      "category": "spices",
+      "price": 1.50,
+      "unit": "500g",
+      "brand": "Diamond Crystal"
+    }
+  ],
+  "tortilla": [
+    {
+      "id": "tortilla-001",
+      "name": "Flour Tortillas",
+      "category": "grains",
+      "price": 2.50,
+      "unit": "10 pack",
+      "brand": "Mission"
+    },
+    {
+      "id": "tortilla-002",
+      "name": "Corn Tortillas",
+      "category": "grains",
+      "price": 2.20,
+      "unit": "10 pack",
+      "brand": "La Banderita"
+    }
+  ],
+  "beef": [
+    {
+      "id": "beef-001",
+      "name": "Ground Beef",
+      "category": "meat",
+      "price": 7.50,
+      "unit": "kg",
+      "brand": "Fresh Farm"
+    },
+    {
+      "id": "beef-002",
+      "name": "Beef Steak",
+      "category": "meat",
+      "price": 15.99,
+      "unit": "kg",
+      "brand": "Premium Cut"
+    }
+  ],
+  "lettuce": [
+    {
+      "id": "lettuce-001",
+      "name": "Iceberg Lettuce",
+      "category": "vegetables",
+      "price": 1.50,
+      "unit": "head",
+      "brand": "Fresh Produce"
+    },
+    {
+      "id": "lettuce-002",
+      "name": "Romaine Lettuce",
+      "category": "vegetables",
+      "price": 2.20,
+      "unit": "head",
+      "brand": "Organic Valley"
+    }
+  ],
+  "lime": [
+    {
+      "id": "lime-001",
+      "name": "Fresh Limes",
+      "category": "fruits",
+      "price": 0.50,
+      "unit": "piece",
+      "brand": "Fresh Produce"
+    }
+  ],
+  "cilantro": [
+    {
+      "id": "cilantro-001",
+      "name": "Fresh Cilantro",
+      "category": "herbs",
+      "price": 1.20,
+      "unit": "bunch",
+      "brand": "Fresh Herbs"
+    }
+  ],
+  "fish": [
+    {
+      "id": "fish-001",
+      "name": "Salmon Fillet",
+      "category": "seafood",
+      "price": 12.99,
+      "unit": "kg",
+      "brand": "Fresh Catch"
+    },
+    {
+      "id": "fish-002",
+      "name": "Tuna Steak",
+      "category": "seafood",
+      "price": 14.50,
+      "unit": "kg",
+      "brand": "Ocean Fresh"
+    }
+  ],
+  "seaweed": [
+    {
+      "id": "seaweed-001",
+      "name": "Nori Sheets",
+      "category": "seafood",
+      "price": 3.50,
+      "unit": "10 sheets",
+      "brand": "Yaki Nori"
+    }
+  ],
+  "wasabi": [
+    {
+      "id": "wasabi-001",
+      "name": "Wasabi Paste",
+      "category": "condiments",
+      "price": 4.20,
+      "unit": "100g",
+      "brand": "S&B"
+    }
+  ],
+  "soy_sauce": [
+    {
+      "id": "soy_sauce-001",
+      "name": "Soy Sauce",
+      "category": "condiments",
+      "price": 2.80,
+      "unit": "500ml",
+      "brand": "Kikkoman"
+    }
+  ],
+  "cucumber": [
+    {
+      "id": "cucumber-001",
+      "name": "English Cucumber",
+      "category": "vegetables",
+      "price": 1.80,
+      "unit": "piece",
+      "brand": "Fresh Produce"
+    }
+  ],
+  "avocado": [
+    {
+      "id": "avocado-001",
+      "name": "Hass Avocado",
+      "category": "fruits",
+      "price": 2.50,
+      "unit": "piece",
+      "brand": "Fresh Produce"
+    }
+  ],
+  "sesame": [
+    {
+      "id": "sesame-001",
+      "name": "Sesame Seeds",
+      "category": "seeds",
+      "price": 3.50,
+      "unit": "200g",
+      "brand": "Bob's Red Mill"
+    }
+  ],
+  "coconut_milk": [
+    {
+      "id": "coconut_milk-001",
+      "name": "Coconut Milk",
+      "category": "dairy",
+      "price": 2.20,
+      "unit": "400ml",
+      "brand": "Thai Kitchen"
+    }
+  ],
+  "turmeric": [
+    {
+      "id": "turmeric-001",
+      "name": "Turmeric Powder",
+      "category": "spices",
+      "price": 2.80,
+      "unit": "100g",
+      "brand": "Simply Organic"
+    }
+  ],
+  "vegetables": [
+    {
+      "id": "vegetables-001",
+      "name": "Mixed Vegetables",
+      "category": "vegetables",
+      "price": 3.50,
+      "unit": "500g",
+      "brand": "Frozen Fresh"
+    }
+  ],
+  "bell_pepper": [
+    {
+      "id": "bell_pepper-001",
+      "name": "Red Bell Pepper",
+      "category": "vegetables",
+      "price": 2.50,
+      "unit": "piece",
+      "brand": "Fresh Produce"
+    },
+    {
+      "id": "bell_pepper-002",
+      "name": "Green Bell Pepper",
+      "category": "vegetables",
+      "price": 2.20,
+      "unit": "piece",
+      "brand": "Fresh Produce"
+    }
+  ],
+  "broccoli": [
+    {
+      "id": "broccoli-001",
+      "name": "Fresh Broccoli",
+      "category": "vegetables",
+      "price": 2.80,
+      "unit": "head",
+      "brand": "Fresh Produce"
+    }
+  ],
+  "carrot": [
+    {
+      "id": "carrot-001",
+      "name": "Carrots",
+      "category": "vegetables",
+      "price": 1.50,
+      "unit": "kg",
+      "brand": "Fresh Produce"
+    }
+  ],
+  "bun": [
+    {
+      "id": "bun-001",
+      "name": "Hamburger Buns",
+      "category": "bread",
+      "price": 2.50,
+      "unit": "8 pack",
+      "brand": "Martin's"
+    }
+  ],
+  "pickle": [
+    {
+      "id": "pickle-001",
+      "name": "Dill Pickles",
+      "category": "condiments",
+      "price": 2.20,
+      "unit": "500ml",
+      "brand": "Vlasic"
+    }
+  ],
+  "ketchup": [
+    {
+      "id": "ketchup-001",
+      "name": "Tomato Ketchup",
+      "category": "condiments",
+      "price": 1.80,
+      "unit": "500ml",
+      "brand": "Heinz"
+    }
+  ],
+  "mustard": [
+    {
+      "id": "mustard-001",
+      "name": "Yellow Mustard",
+      "category": "condiments",
+      "price": 1.50,
+      "unit": "500ml",
+      "brand": "French's"
+    }
+  ],
+  "olive_oil": [
+    {
+      "id": "olive_oil-001",
+      "name": "Extra Virgin Olive Oil",
+      "category": "oils",
+      "price": 6.50,
+      "unit": "500ml",
+      "brand": "Bertolli"
+    }
+  ],
+  "vinegar": [
+    {
+      "id": "vinegar-001",
+      "name": "Balsamic Vinegar",
+      "category": "condiments",
+      "price": 4.50,
+      "unit": "250ml",
+      "brand": "Colavita"
+    }
+  ],
+  "herbs": [
+    {
+      "id": "herbs-001",
+      "name": "Mixed Herbs",
+      "category": "herbs",
+      "price": 2.50,
+      "unit": "50g",
+      "brand": "McCormick"
+    }
+  ],
+  "lentils": [
+    {
+      "id": "lentils-001",
+      "name": "Red Lentils",
+      "category": "legumes",
+      "price": 2.80,
+      "unit": "500g",
+      "brand": "Bob's Red Mill"
+    },
+    {
+      "id": "lentils-002",
+      "name": "Green Lentils",
+      "category": "legumes",
+      "price": 2.50,
+      "unit": "500g",
+      "brand": "Bob's Red Mill"
+    }
+  ],
+  "cumin": [
+    {
+      "id": "cumin-001",
+      "name": "Cumin Seeds",
+      "category": "spices",
+      "price": 2.20,
+      "unit": "100g",
+      "brand": "McCormick"
+    }
+  ],
+  "potato": [
+    {
+      "id": "potato-001",
+      "name": "Russet Potatoes",
+      "category": "vegetables",
+      "price": 1.80,
+      "unit": "kg",
+      "brand": "Fresh Produce"
+    },
+    {
+      "id": "potato-002",
+      "name": "Red Potatoes",
+      "category": "vegetables",
+      "price": 2.20,
+      "unit": "kg",
+      "brand": "Fresh Produce"
+    }
+  ],
+  "peas": [
+    {
+      "id": "peas-001",
+      "name": "Green Peas",
+      "category": "vegetables",
+      "price": 2.50,
+      "unit": "500g",
+      "brand": "Frozen Fresh"
+    }
+  ],
+  "milk": [
+    {
+      "id": "milk-001",
+      "name": "Whole Milk",
+      "category": "dairy",
+      "price": 3.50,
+      "unit": "liter",
+      "brand": "Organic Valley"
+    },
+    {
+      "id": "milk-002",
+      "name": "Almond Milk",
+      "category": "dairy",
+      "price": 2.80,
+      "unit": "liter",
+      "brand": "Silk"
+    }
+  ],
+  "sugar": [
+    {
+      "id": "sugar-001",
+      "name": "White Sugar",
+      "category": "sweeteners",
+      "price": 1.50,
+      "unit": "kg",
+      "brand": "Domino"
+    },
+    {
+      "id": "sugar-002",
+      "name": "Brown Sugar",
+      "category": "sweeteners",
+      "price": 1.80,
+      "unit": "kg",
+      "brand": "Domino"
+    }
+  ],
+  "butter": [
+    {
+      "id": "butter-001",
+      "name": "Unsalted Butter",
+      "category": "dairy",
+      "price": 4.50,
+      "unit": "250g",
+      "brand": "Land O Lakes"
+    }
+  ],
+  "wine": [
+    {
+      "id": "wine-001",
+      "name": "White Wine",
+      "category": "beverages",
+      "price": 8.50,
+      "unit": "750ml",
+      "brand": "Cooking Wine"
+    }
+  ],
+  "stock": [
+    {
+      "id": "stock-001",
+      "name": "Chicken Stock",
+      "category": "soup",
+      "price": 2.50,
+      "unit": "1 liter",
+      "brand": "Swanson"
+    }
+  ],
+  "mushroom": [
+    {
+      "id": "mushroom-001",
+      "name": "White Mushrooms",
+      "category": "vegetables",
+      "price": 3.50,
+      "unit": "250g",
+      "brand": "Fresh Produce"
+    }
+  ],
+  "parsley": [
+    {
+      "id": "parsley-001",
+      "name": "Fresh Parsley",
+      "category": "herbs",
+      "price": 1.50,
+      "unit": "bunch",
+      "brand": "Fresh Herbs"
+    }
+  ],
+  "beans": [
+    {
+      "id": "beans-001",
+      "name": "Black Beans",
+      "category": "legumes",
+      "price": 1.80,
+      "unit": "400g",
+      "brand": "Bush's"
+    },
+    {
+      "id": "beans-002",
+      "name": "Kidney Beans",
+      "category": "legumes",
+      "price": 1.60,
+      "unit": "400g",
+      "brand": "Bush's"
+    }
+  ],
+  "eggs": [
+    {
+      "id": "eggs-001",
+      "name": "Large Eggs",
+      "category": "dairy",
+      "price": 3.50,
+      "unit": "dozen",
+      "brand": "Organic Valley"
+    }
+  ],
+  "bacon": [
+    {
+      "id": "bacon-001",
+      "name": "Thick Cut Bacon",
+      "category": "meat",
+      "price": 6.50,
+      "unit": "500g",
+      "brand": "Oscar Mayer"
+    }
+  ],
+  "black_pepper": [
+    {
+      "id": "black_pepper-001",
+      "name": "Black Pepper",
+      "category": "spices",
+      "price": 2.20,
+      "unit": "100g",
+      "brand": "McCormick"
+    }
+  ],
+  "chili": [
+    {
+      "id": "chili-001",
+      "name": "Chili Powder",
+      "category": "spices",
+      "price": 2.50,
+      "unit": "100g",
+      "brand": "McCormick"
+    }
+  ],
+  "chips": [
+    {
+      "id": "chips-001",
+      "name": "Tortilla Chips",
+      "category": "snacks",
+      "price": 2.80,
+      "unit": "200g",
+      "brand": "Tostitos"
+    }
+  ],
+  "jalapeno": [
+    {
+      "id": "jalapeno-001",
+      "name": "Fresh Jalapenos",
+      "category": "vegetables",
+      "price": 2.50,
+      "unit": "250g",
+      "brand": "Fresh Produce"
+    }
+  ],
+  "sour_cream": [
+    {
+      "id": "sour_cream-001",
+      "name": "Sour Cream",
+      "category": "dairy",
+      "price": 2.20,
+      "unit": "250g",
+      "brand": "Daisy"
+    }
+  ],
+  "guacamole": [
+    {
+      "id": "guacamole-001",
+      "name": "Guacamole",
+      "category": "dips",
+      "price": 3.50,
+      "unit": "250g",
+      "brand": "Wholly Guacamole"
+    }
+  ],
+  "noodles": [
+    {
+      "id": "noodles-001",
+      "name": "Ramen Noodles",
+      "category": "grains",
+      "price": 1.20,
+      "unit": "pack",
+      "brand": "Maruchan"
+    }
+  ],
+  "broth": [
+    {
+      "id": "broth-001",
+      "name": "Beef Broth",
+      "category": "soup",
+      "price": 2.20,
+      "unit": "1 liter",
+      "brand": "Swanson"
+    }
+  ],
+  "pork": [
+    {
+      "id": "pork-001",
+      "name": "Pork Shoulder",
+      "category": "meat",
+      "price": 5.50,
+      "unit": "kg",
+      "brand": "Fresh Farm"
+    }
+  ],
+  "shrimp": [
+    {
+      "id": "shrimp-001",
+      "name": "Large Shrimp",
+      "category": "seafood",
+      "price": 12.99,
+      "unit": "500g",
+      "brand": "Fresh Catch"
+    }
+  ],
+  "lime": [
+    {
+      "id": "lime-001",
+      "name": "Fresh Limes",
+      "category": "fruits",
+      "price": 0.50,
+      "unit": "piece",
+      "brand": "Fresh Produce"
+    }
+  ],
+  "fish_sauce": [
+    {
+      "id": "fish_sauce-001",
+      "name": "Fish Sauce",
+      "category": "condiments",
+      "price": 3.50,
+      "unit": "500ml",
+      "brand": "Red Boat"
+    }
+  ],
+  "peanuts": [
+    {
+      "id": "peanuts-001",
+      "name": "Roasted Peanuts",
+      "category": "nuts",
+      "price": 3.50,
+      "unit": "250g",
+      "brand": "Planters"
+    }
+  ],
+  "scallion": [
+    {
+      "id": "scallion-001",
+      "name": "Green Onions",
+      "category": "vegetables",
+      "price": 1.20,
+      "unit": "bunch",
+      "brand": "Fresh Produce"
+    }
+  ],
+  "pork_ribs": [
+    {
+      "id": "pork_ribs-001",
+      "name": "Baby Back Ribs",
+      "category": "meat",
+      "price": 8.99,
+      "unit": "kg",
+      "brand": "Fresh Farm"
+    }
+  ],
+  "bbq_sauce": [
+    {
+      "id": "bbq_sauce-001",
+      "name": "BBQ Sauce",
+      "category": "condiments",
+      "price": 2.50,
+      "unit": "500ml",
+      "brand": "Sweet Baby Ray's"
+    }
+  ],
+  "brown_sugar": [
+    {
+      "id": "brown_sugar-001",
+      "name": "Brown Sugar",
+      "category": "sweeteners",
+      "price": 1.80,
+      "unit": "kg",
+      "brand": "Domino"
+    }
+  ],
+  "paprika": [
+    {
+      "id": "paprika-001",
+      "name": "Paprika",
+      "category": "spices",
+      "price": 2.20,
+      "unit": "100g",
+      "brand": "McCormick"
+    }
+  ],
+  "pepper": [
+    {
+      "id": "pepper-001",
+      "name": "Black Pepper",
+      "category": "spices",
+      "price": 2.20,
+      "unit": "100g",
+      "brand": "McCormick"
+    }
+  ],
+  "chicken_wings": [
+    {
+      "id": "chicken_wings-001",
+      "name": "Chicken Wings",
+      "category": "meat",
+      "price": 6.50,
+      "unit": "kg",
+      "brand": "Fresh Farm"
+    }
+  ],
+  "hot_sauce": [
+    {
+      "id": "hot_sauce-001",
+      "name": "Hot Sauce",
+      "category": "condiments",
+      "price": 2.20,
+      "unit": "150ml",
+      "brand": "Frank's RedHot"
+    }
+  ],
+  "honey": [
+    {
+      "id": "honey-001",
+      "name": "Raw Honey",
+      "category": "sweeteners",
+      "price": 4.50,
+      "unit": "500g",
+      "brand": "Local Farm"
+    }
+  ],
+  "chickpeas": [
+    {
+      "id": "chickpeas-001",
+      "name": "Chickpeas",
+      "category": "legumes",
+      "price": 1.80,
+      "unit": "400g",
+      "brand": "Bush's"
+    }
+  ],
+  "tahini": [
+    {
+      "id": "tahini-001",
+      "name": "Tahini",
+      "category": "condiments",
+      "price": 4.50,
+      "unit": "250g",
+      "brand": "Joyva"
+    }
+  ],
+  "lemon": [
+    {
+      "id": "lemon-001",
+      "name": "Fresh Lemons",
+      "category": "fruits",
+      "price": 0.60,
+      "unit": "piece",
+      "brand": "Fresh Produce"
+    }
+  ],
+  "lamb": [
+    {
+      "id": "lamb-001",
+      "name": "Lamb Chops",
+      "category": "meat",
+      "price": 18.99,
+      "unit": "kg",
+      "brand": "Premium Cut"
+    }
+  ],
+  "pita": [
+    {
+      "id": "pita-001",
+      "name": "Pita Bread",
+      "category": "bread",
+      "price": 2.50,
+      "unit": "6 pack",
+      "brand": "Joseph's"
+    }
+  ],
+  "eggplant": [
+    {
+      "id": "eggplant-001",
+      "name": "Eggplant",
+      "category": "vegetables",
+      "price": 2.50,
+      "unit": "piece",
+      "brand": "Fresh Produce"
+    }
+  ],
+  "bulgur": [
+    {
+      "id": "bulgur-001",
+      "name": "Bulgur Wheat",
+      "category": "grains",
+      "price": 3.50,
+      "unit": "500g",
+      "brand": "Bob's Red Mill"
+    }
+  ],
+  "mint": [
+    {
+      "id": "mint-001",
+      "name": "Fresh Mint",
+      "category": "herbs",
+      "price": 1.50,
+      "unit": "bunch",
+      "brand": "Fresh Herbs"
+    }
+  ],
+  "vanilla": [
+    {
+      "id": "vanilla-001",
+      "name": "Vanilla Extract",
+      "category": "baking",
+      "price": 4.50,
+      "unit": "100ml",
+      "brand": "Nielsen-Massey"
+    }
+  ],
+  "baking_powder": [
+    {
+      "id": "baking_powder-001",
+      "name": "Baking Powder",
+      "category": "baking",
+      "price": 1.50,
+      "unit": "100g",
+      "brand": "Clabber Girl"
+    }
+  ],
+  "chocolate_chips": [
+    {
+      "id": "chocolate_chips-001",
+      "name": "Semi-Sweet Chocolate Chips",
+      "category": "baking",
+      "price": 3.50,
+      "unit": "300g",
+      "brand": "Nestle"
+    }
+  ],
+  "baking_soda": [
+    {
+      "id": "baking_soda-001",
+      "name": "Baking Soda",
+      "category": "baking",
+      "price": 1.20,
+      "unit": "500g",
+      "brand": "Arm & Hammer"
+    }
+  ],
+  "strawberry": [
+    {
+      "id": "strawberry-001",
+      "name": "Fresh Strawberries",
+      "category": "fruits",
+      "price": 4.50,
+      "unit": "500g",
+      "brand": "Fresh Produce"
+    }
+  ],
+  "chocolate": [
+    {
+      "id": "chocolate-001",
+      "name": "Dark Chocolate",
+      "category": "baking",
+      "price": 3.50,
+      "unit": "100g",
+      "brand": "Lindt"
+    }
+  ],
+  "nuts": [
+    {
+      "id": "nuts-001",
+      "name": "Mixed Nuts",
+      "category": "nuts",
+      "price": 5.50,
+      "unit": "250g",
+      "brand": "Planters"
+    }
+  ],
+  "apples": [
+    {
+      "id": "apples-001",
+      "name": "Granny Smith Apples",
+      "category": "fruits",
+      "price": 2.50,
+      "unit": "kg",
+      "brand": "Fresh Produce"
+    }
+  ],
+  "cinnamon": [
+    {
+      "id": "cinnamon-001",
+      "name": "Ground Cinnamon",
+      "category": "spices",
+      "price": 2.20,
+      "unit": "100g",
+      "brand": "McCormick"
+    }
+  ],
+  "cornstarch": [
+    {
+      "id": "cornstarch-001",
+      "name": "Cornstarch",
+      "category": "baking",
+      "price": 1.50,
+      "unit": "500g",
+      "brand": "Argo"
+    }
+  ],
+  "cream_cheese": [
+    {
+      "id": "cream_cheese-001",
+      "name": "Cream Cheese",
+      "category": "dairy",
+      "price": 3.50,
+      "unit": "250g",
+      "brand": "Philadelphia"
+    }
+  ],
+  "graham_crackers": [
+    {
+      "id": "graham_crackers-001",
+      "name": "Graham Crackers",
+      "category": "baking",
+      "price": 2.50,
+      "unit": "200g",
+      "brand": "Honey Maid"
+    }
+  ],
+  "syrup": [
+    {
+      "id": "syrup-001",
+      "name": "Maple Syrup",
+      "category": "sweeteners",
+      "price": 6.50,
+      "unit": "250ml",
+      "brand": "Aunt Jemima"
+    }
+  ],
+  "mushroom": [
+    {
+      "id": "mushroom-001",
+      "name": "White Mushrooms",
+      "category": "vegetables",
+      "price": 3.50,
+      "unit": "250g",
+      "brand": "Fresh Produce"
+    }
+  ],
+  "oats": [
+    {
+      "id": "oats-001",
+      "name": "Rolled Oats",
+      "category": "grains",
+      "price": 2.50,
+      "unit": "500g",
+      "brand": "Quaker"
+    }
+  ],
+  "berries": [
+    {
+      "id": "berries-001",
+      "name": "Mixed Berries",
+      "category": "fruits",
+      "price": 4.50,
+      "unit": "300g",
+      "brand": "Frozen Fresh"
+    }
+  ],
+  "banana": [
+    {
+      "id": "banana-001",
+      "name": "Bananas",
+      "category": "fruits",
+      "price": 1.50,
+      "unit": "kg",
+      "brand": "Fresh Produce"
+    }
+  ],
+  "celery": [
+    {
+      "id": "celery-001",
+      "name": "Celery",
+      "category": "vegetables",
+      "price": 2.20,
+      "unit": "bunch",
+      "brand": "Fresh Produce"
+    }
+  ],
+  "mayo": [
+    {
+      "id": "mayo-001",
+      "name": "Mayonnaise",
+      "category": "condiments",
+      "price": 2.50,
+      "unit": "500ml",
+      "brand": "Hellmann's"
+    }
+  ],
+  "breadcrumbs": [
+    {
+      "id": "breadcrumbs-001",
+      "name": "Breadcrumbs",
+      "category": "baking",
+      "price": 1.80,
+      "unit": "200g",
+      "brand": "Progresso"
+    }
+  ],
+  "pie_crust": [
+    {
+      "id": "pie_crust-001",
+      "name": "Pie Crust",
+      "category": "baking",
+      "price": 2.50,
+      "unit": "2 pack",
+      "brand": "Pillsbury"
+    }
+  ],
+  "spinach": [
+    {
+      "id": "spinach-001",
+      "name": "Fresh Spinach",
+      "category": "vegetables",
+      "price": 2.50,
+      "unit": "250g",
+      "brand": "Fresh Produce"
+    }
+  ],
+  "blueberries": [
+    {
+      "id": "blueberries-001",
+      "name": "Fresh Blueberries",
+      "category": "fruits",
+      "price": 4.50,
+      "unit": "250g",
+      "brand": "Fresh Produce"
+    }
+  ],
+  "water": [
+    {
+      "id": "water-001",
+      "name": "Spring Water",
+      "category": "beverages",
+      "price": 1.50,
+      "unit": "1 liter",
+      "brand": "Evian"
+    }
+  ],
+  "ice": [
+    {
+      "id": "ice-001",
+      "name": "Ice Cubes",
+      "category": "beverages",
+      "price": 1.00,
+      "unit": "bag",
+      "brand": "Store Brand"
+    }
+  ],
+  "protein_powder": [
+    {
+      "id": "protein_powder-001",
+      "name": "Whey Protein",
+      "category": "supplements",
+      "price": 25.99,
+      "unit": "1kg",
+      "brand": "Optimum Nutrition"
+    }
+  ],
+  "granola": [
+    {
+      "id": "granola-001",
+      "name": "Granola",
+      "category": "cereals",
+      "price": 4.50,
+      "unit": "400g",
+      "brand": "Nature Valley"
+    }
+  ],
+  "cabbage": [
+    {
+      "id": "cabbage-001",
+      "name": "Green Cabbage",
+      "category": "vegetables",
+      "price": 1.50,
+      "unit": "head",
+      "brand": "Fresh Produce"
+    }
+  ],
+  "chili_powder": [
+    {
+      "id": "chili_powder-001",
+      "name": "Chili Powder",
+      "category": "spices",
+      "price": 2.50,
+      "unit": "100g",
+      "brand": "McCormick"
+    }
+  ],
+  "almonds": [
+    {
+      "id": "almonds-001",
+      "name": "Sliced Almonds",
+      "category": "nuts",
+      "price": 5.50,
+      "unit": "200g",
+      "brand": "Blue Diamond"
+    }
+  ],
+  "saffron": [
+    {
+      "id": "saffron-001",
+      "name": "Saffron Threads",
+      "category": "spices",
+      "price": 15.99,
+      "unit": "1g",
+      "brand": "Premium Spice"
+    }
+  ]
+}
